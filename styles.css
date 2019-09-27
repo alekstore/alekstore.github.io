@@ -5,17 +5,17 @@
 
 #octocat {
   display: block;
-  width:384px;
+  width:400px;
   margin: 50px auto;
 }
 #nivki2018okt {
   display: block;
-  width:800px;
+  width:600px;
   margin: 50px auto;
 }
 p {
   display: block;
-  width: 400px;
+  width: 480px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
