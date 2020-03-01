@@ -4,3 +4,5 @@ https://alekstore.github.io/myfotos/GifPic/elementor.gif
 https://alekstore.github.io/myfotos/GifPic/helium.gif
 https://alekstore.github.io/myfotos/GifPic/nicepage.gif
 https://alekstore.github.io/myfotos/GifPic/brizy.gif
+https://alekstore.github.io/myfotos/GifPic/scientist.gif
+https://alekstore.github.io/myfotos/GifPic/allright.gif
